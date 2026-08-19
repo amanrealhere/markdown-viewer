@@ -46,7 +46,8 @@ dependencies {
     implementation("androidx.compose.material3:material3")
     implementation("androidx.compose.ui:ui-tooling-preview")
 
-    implementation("com.atlassian.commonmark:commonmark:0.24.0")
-    implementation("com.atlassian.commonmark:commonmark-ext-gfm-tables:0.24.0")
-    implementation("com.atlassian.commonmark:commonmark-ext-gfm-strikethrough:0.24.0")
+    implementation("io.noties.markwon:core:4.6.2")
+    implementation("io.noties.markwon:ext-tables:4.6.2")
+    implementation("io.noties.markwon:ext-strikethrough:4.6.2")
+    implementation("io.noties.markwon:ext-tasklist:4.6.2")
 }
