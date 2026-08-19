@@ -49,5 +49,4 @@ dependencies {
     implementation("com.atlassian.commonmark:commonmark:0.24.0")
     implementation("com.atlassian.commonmark:commonmark-ext-gfm-tables:0.24.0")
     implementation("com.atlassian.commonmark:commonmark-ext-gfm-strikethrough:0.24.0")
-    implementation("com.atlassian.commonmark:commonmark-ext-gfm-task-list-items:0.24.0")
 }
